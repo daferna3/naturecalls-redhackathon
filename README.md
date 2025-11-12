@@ -1,6 +1,6 @@
 # CodeRedHackathon2025
 
-# Nature Calls
+## Nature Calls
 
 This is the project we created for the CodeRed Astra Hackathon in 2025 called Nature Calls. This is just a deployed version. The original version is at https://github.com/ISucc34/RedHackathon.
 
